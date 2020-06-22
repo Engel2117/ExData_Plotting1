@@ -56,6 +56,6 @@ by running:
 `source('plot1.R') `
 
 All plots can be created by running:
-`create_plots.R`
+`source(create_plots.R)`
 Note that this option reloads and reprocesses the data for each plot. This is because the 
 assignment requires that each plot's R file contain the code to load the data. 
